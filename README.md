@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Gallego</h1>
 <h3 align="center">A passionate Data Scientist from Spain</h3>
 
-<p align="center"> <img src="https://revistabyte.es/wp-content/uploads/2020/06/el-machine-learning-en-50-terminos-por-paradigma-digital-696x416.jpg" alt="luigalsan" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/56565259/233169216-08913969-ab5d-4ce5-9406-e502838650d7.png](https://miro.medium.com/v2/resize:fit:720/1*SWDxOQ75LU_kGLfZe2cPBA.gif" alt="luigalsan" /> </p>
 
 - 🔭 I’m currently working on **PhD**
 

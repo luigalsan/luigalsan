@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:720/1*SWDxOQ75LU_kGLfZe2cPBA.gif" alt="luigalsan" /> </p>
 
-- 🔭 I’m currently working on **PhD**
+- 🔭 I’m currently working on a **PhD** in crop diseases implementing AI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

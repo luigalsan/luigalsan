@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Gallego</h1>
-<h3 align="center">A passionate Data Scientist from Spain OPEN TO WORK &#128170;</h3>
+<h3 align="center">A passionate Back-end developer &#128170;</h3>
 
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:720/1*SWDxOQ75LU_kGLfZe2cPBA.gif" alt="luigalsan" /> </p>
 
